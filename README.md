@@ -1,12 +1,3 @@
-<div style="text-align: center; margin: 20px 0;">
-  <img 
-    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
-    alt="Cool Animation" 
-    style="max-width: 100%; border-radius: 10px;"
-  />
-</div>
-
-
 
 
 <p align="center">
@@ -21,6 +12,16 @@
 
 
 <h3 align="center">Computer Science undergrad @ SLIIT | Clean code, real impact | Building innovative solutions for a better tomorrow.</h3>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt="Animated Banner" />
+</p>
+
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it23220010&label=Profile%20views&color=0e75b6&style=flat" alt="it23220010" /> </p>
 
