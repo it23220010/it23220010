@@ -1,3 +1,10 @@
+<div style="text-align: center; margin: 20px 0;">
+  <img 
+    src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+    alt="Cool Animation" 
+    style="max-width: 100%; border-radius: 10px;"
+  />
+</div>
 
 
 
