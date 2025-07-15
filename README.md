@@ -36,7 +36,7 @@
 
 - ⚡ Fun fact **I turn caffeine into code (and sometimes, bugs)**
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 
 
 
@@ -55,7 +55,7 @@
 <br>
 
 
-─────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,6 +79,41 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it23220010&show_icons=true&locale=en&layout=compact" alt="it23220010" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it23220010&show_icons=true&locale=en" alt="it23220010" /></p>
+<p align="center" style="display: flex; justify-content: center; gap: 24px;">
+
+  <!-- Language Chart Box (Left) -->
+  <div style="
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: #000000;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it23220010&layout=compact&hide_border=true&langs_count=6&theme=dark&bg_color=000000&title_color=c084fc&text_color=bbbbff&border_color=30363d" alt="Top Languages" style="max-width: 100%; max-height: 100%;" />
+  </div>
+
+  <!-- GitHub Stats Box (Right) -->
+  <div style="
+    border: 2px solid #ffffff;
+    border-radius: 12px;
+    padding: 12px;
+    background-color: #000000;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  ">
+    <img src="https://github-readme-stats.vercel.app/api?username=it23220010&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=000000&title_color=c084fc&icon_color=ffee7f&text_color=bbbbff" alt="GitHub Stats" style="max-width: 100%; max-height: 100%;" />
+  </div>
+
+</p>
+
+
+
+
