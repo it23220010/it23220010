@@ -13,6 +13,7 @@
 
 <h3 align="center">Computer Science undergrad @ SLIIT | Clean code, real impact | Building innovative solutions for a better tomorrow.</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it23220010&label=Profile%20views&color=0e75b6&style=flat" alt="it23220010" /> </p>
 <br>
 <br>
 
@@ -23,7 +24,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=it23220010&label=Profile%20views&color=0e75b6&style=flat" alt="it23220010" /> </p>
+
 
 
 
