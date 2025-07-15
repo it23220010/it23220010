@@ -1,7 +1,20 @@
+<
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3F87A6&center=true&vCenter=true&width=600&lines=Welcome+to+my+code+space+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<br>
+
+
 <h1 align="center">Hi 👋, I'm Shenal Silva</h1>
+
+
+
 <h3 align="center">Computer Science undergrad @ SLIIT | Clean code, real impact | Building innovative solutions for a better tomorrow.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it23220010&label=Profile%20views&color=0e75b6&style=flat" alt="it23220010" /> </p>
+
+
 
 - 🌱 I’m currently learning **Web Development and other programming languages**
 
@@ -12,6 +25,9 @@
 - ⚡ Fun fact **I turn caffeine into code (and sometimes, bugs)**
 
 ---
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
