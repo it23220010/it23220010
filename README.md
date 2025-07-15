@@ -1,23 +1,25 @@
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=3F87A6&center=true&vCenter=true&width=800&lines=Welcome+to+my+code+space+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
-<br>
-
-
 <h1 align="center">Hi 👋, I'm Shenal Silva</h1>
 
 
 
 <h3 align="center">Computer Science undergrad @ SLIIT | Clean code, real impact | Building innovative solutions for a better tomorrow.</h3>
 
+
+
+<br>
+
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=it23220010&label=Profile%20views&color=ff0000&style=flat" alt="it23220010" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3F87A6&center=true&vCenter=true&width=800&lines=Welcome+to+my+code+space+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <br>
+
+
+
+
 <br>
 
 <p align="center">
@@ -73,6 +75,8 @@
 </div>
 
 
+<br>
+<br>
 
 
 <!-- GitHub Streak + Most Used Languages -->
@@ -82,6 +86,23 @@
     alt="GitHub Streak Stats" 
     height="300"
   />
+
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=it23220010&label=Profile%20views&color=ff0000&style=flat" 
+    alt="it23220010" 
+    style="height: 28px; width: auto; display: inline-block;"
+  />
+</p>
+</p>
+
+
+
+<br>
+<br>
+
+
 
 <p align="center" style="display: flex; justify-content: center; gap: 24px;">
 
