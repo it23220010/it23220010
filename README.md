@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shenal Silva</h1>
 
-
+<br>
 
 <h3 align="center">Computer Science undergrad @ SLIIT | Clean code, real impact | Building innovative solutions for a better tomorrow.</h3>
 
