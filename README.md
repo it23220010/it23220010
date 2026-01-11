@@ -35,7 +35,7 @@
 
 - 🌱 I’m currently learning **Web Development and other programming languages**
 
-- 📫 My Portfolio [shenal-silva-portfolio.vercel.app/](shenal-silva-portfolio.vercel.app/)
+
 
 - 📫 How to reach me **shenaldimantha30@gmail.com**
 
